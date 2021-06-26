@@ -4,9 +4,11 @@ role: PhD Student
 avatar_filename: headshot.jpeg
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Analysis
+  - Project Management
+  - Programming
+  - Research
+  - Evaluation
 social:
   - icon: envelope
     icon_pack: fas

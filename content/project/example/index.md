@@ -1,12 +1,18 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: COVID-19 Data Visualization as of April 24, 2020
+summary: The data set provided is as of April 24, 2020. The indicator data is grouped by weeks,
+ages, states, and place of death. This data can be used to compare cases at a certain point in time,
+compare factors, and possibly make predictions.
+
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Tableau
+- Data Visualization
+- COVID
+- Analysis
+date: "2021-06-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://public.tableau.com/profile/jammieca.godfrey"
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -16,7 +22,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/jammiecagodfrey
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -27,15 +33,27 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+     Coronavirus/Covid-19 is affecting countries throughout the word. Here in the United
+States many people have succumbed to this deadly virus. The Center of Disease Control, CDC,
+provides data that tracks multiple factors. This provisional data set contains data that may not be
+up to date because of reporting delays. The cause of death is based on what was reported on the
+death certificate. In the event that COVID-19 tests are not available, or results were not in by the
+time of death, the cause of death may be listed as influenza, pneumonia, or a combination of
+causes. The data set provided is as of April 24, 2020. The indicator data is grouped by weeks,
+ages, states, and place of death. This data can be used to compare cases at a certain point in time,
+compare factors, and possibly make predictions.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
-
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+     The data visualization file contains four data visualizations which each provide different
+results. The data visualization labeled Covid-19 (States) displays all COVID-19 deaths by states.
+The data is presented in a graduated color map. As the colors get darker, the death toll increase.
+It allows us to explore the infected areas by location. The data in that map stood out to me
+because areas with higher numbers are located near bodies of water. The color-coded bar graphs
+show the deaths by age groups and cause of death categories. More individuals who are 85 +
+years old dying than those that are younger age groups. The packed bubbles visualization show
+the place of death. Most people who are dying from only COVID-19 are dying in healthcare
+setting, impatient. Finally, the text table displays the deaths by all causes according to gender. In
+every category, there are more males that are dying than women. Data visualization can tell a
+story that actually paint an image. This data useful to all that are impacted.

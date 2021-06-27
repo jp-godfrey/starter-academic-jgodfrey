@@ -36,7 +36,7 @@ url_video: ""
 slides: ""
 ---
 
-     Coronavirus/Covid-19 is affecting countries throughout the word. Here in the United
+Coronavirus/Covid-19 is affecting countries throughout the word. Here in the United
 States many people have succumbed to this deadly virus. The Center of Disease Control, CDC,
 provides data that tracks multiple factors. This provisional data set contains data that may not be
 up to date because of reporting delays. The cause of death is based on what was reported on the
@@ -46,7 +46,7 @@ causes. The data set provided is as of April 24, 2020. The indicator data is gro
 ages, states, and place of death. This data can be used to compare cases at a certain point in time,
 compare factors, and possibly make predictions.
 
-     The data visualization file contains four data visualizations which each provide different
+The data visualization file contains four data visualizations which each provide different
 results. The data visualization labeled Covid-19 (States) displays all COVID-19 deaths by states.
 The data is presented in a graduated color map. As the colors get darker, the death toll increase.
 It allows us to explore the infected areas by location. The data in that map stood out to me

@@ -50,7 +50,7 @@ contact_links:
     #icon_pack: fab
     #name: Chat on Keybase
     #link: 'https://keybase.io/'
-  - icon: fa-linkedin
+  - icon: keybase
     icon_pack: fab
     name: Network
     link: 'https://www.linkedin.com/in/jammieca-godfrey-20798940/'

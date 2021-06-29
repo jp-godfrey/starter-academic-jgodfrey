@@ -32,9 +32,6 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
         
    - title: Middle School Educator
     company: St. Tammany Parish School Board
@@ -46,9 +43,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+     
         
   - title: Elementary Educator
     company: Jefferson Davis County School District

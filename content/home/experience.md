@@ -31,7 +31,9 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-       cooking 
+        * Teaching
+        * Babysitting
+        * Eating
        
    - title: Middle School Educator
     company: St. Tammany Parish School Board
@@ -42,7 +44,9 @@ experience:
     date_end: '2013-06-30'
     description: |2-
         Responsibilities include:
-        walking
+        * Cooking
+        * Helping 
+        * Children
         
   - title: Elementary Educator
     company: Jefferson Davis County School District

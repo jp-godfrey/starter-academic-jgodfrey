@@ -1,8 +1,6 @@
 ---
 title: COVID-19 Data Visualization as of April 24, 2020
-summary: The data set provided is as of April 24, 2020. The indicator data is grouped by weeks,
-ages, states, and place of death. This data can be used to compare cases at a certain point in time,
-compare factors, and possibly make predictions.
+#summary: 
 
 tags:
 - Tableau

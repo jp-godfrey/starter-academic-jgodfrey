@@ -22,31 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Day Treatment Specialist/ Edgenuity Facilitator
-    company: Lamar County School District
+ - title: CEO
+    company: GenCoin
     company_url: ''
     company_logo: org-gc
-    location: Purvis, ms
-    date_start: '2013-07-01'
+    location: California
+    date_start: '2021-01-01'
     date_end: ''
-    description: Taught electronic engineering and researched semiconductor physics.
-       
-   - title: Middle School Educator
-    company: St. Tammany Parish School Board
-    company_url: ''
-    company_logo: org-gc
-    location: Covington, LA
-    date_start: '2011-07-01'
-    date_end: '2013-06-30'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        Responsibilities include:
         
-  - title: Elementary Educator
-    company: Jefferson Davis County School District
+        * Analysing
+        * Modelling
+        * Deploying
+        
+  - title: Professor of Semiconductor Physics
+    company: University X
     company_url: ''
     company_logo: org-x
-    location: Prentiss, MS
-    date_start: '2009-07-01'
-    date_end: '2011-06-30'
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:

@@ -29,11 +29,7 @@ experience:
     location: Purvis, ms
     date_start: '2013-07-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        * Teaching
-        * Babysitting
-        * Eating
+    description: 
        
    - title: Middle School Educator
     company: St. Tammany Parish School Board
@@ -42,11 +38,7 @@ experience:
     location: Covington, LA
     date_start: '2011-07-01'
     date_end: '2013-06-30'
-    description: |2-
-        Responsibilities include:
-        * Cooking
-        * Helping 
-        * Children
+    description: 
         
   - title: Elementary Educator
     company: Jefferson Davis County School District

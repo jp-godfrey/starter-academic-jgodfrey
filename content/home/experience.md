@@ -29,7 +29,7 @@ experience:
     location: Purvis, ms
     date_start: '2013-07-01'
     date_end: ''
-    description: 
+    description: Taught electronic engineering and researched semiconductor physics.
        
    - title: Middle School Educator
     company: St. Tammany Parish School Board
@@ -38,7 +38,7 @@ experience:
     location: Covington, LA
     date_start: '2011-07-01'
     date_end: '2013-06-30'
-    description: 
+    description: Taught electronic engineering and researched semiconductor physics.
         
   - title: Elementary Educator
     company: Jefferson Davis County School District
@@ -50,5 +50,5 @@ experience:
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
-  columns: '2'
+  columns: '3'
 ---

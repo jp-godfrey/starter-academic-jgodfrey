@@ -1,7 +1,6 @@
 ---
 title: Jammieca Godfrey
-role: Ph.D.[JPGodfrey ResumeR.pdf](https://github.com/jp-godfrey/starter-academic-jgodfrey/files/6730132/JPGodfrey.ResumeR.pdf)
- Student
+role: Ph.D. Student
 avatar_filename: headshot.jpeg
 bio: ""
 interests:

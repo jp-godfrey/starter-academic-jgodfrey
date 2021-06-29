@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
- - title: Educator and Edgenuity Facilitator
+ - title: Professor of Semiconductor Physics
     company: Lamar County School District
     company_url: ''
     company_logo: org-gc
@@ -46,5 +46,5 @@ experience:
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
-  columns: '3'
+  columns: '2'
 ---

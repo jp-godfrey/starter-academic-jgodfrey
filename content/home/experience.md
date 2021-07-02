@@ -43,7 +43,7 @@ experience:
     date_end: '2016-12-31'
     description: 'Taught electronic engineering and researched semiconductor physics.'
     
-    design:
+   - design:
   columns: '2'
 ---
 

@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Develop and attend to educational requirements
+        * Analyze data to make decisions regarding instuctional practice
+        * Collect information on student's stregths and weaknesses
         
   - title: Professor of Semiconductor Physics
     company: University X

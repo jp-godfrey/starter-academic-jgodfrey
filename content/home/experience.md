@@ -26,7 +26,7 @@ experience:
     company: Lamar County School District
     company_url: ''
     company_logo: org-gc
-    location: California
+    location: Mississippi
     date_start: '2013-07-01'
     date_end: ''
     description: |2-

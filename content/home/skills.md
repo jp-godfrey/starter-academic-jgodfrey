@@ -25,6 +25,9 @@ feature:
 - icon: users
   icon_pack: fab
   name: Qualitative Methods
+- icon: sync-alt
+  icon_pack: fab
+  name: Mixed Methods
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

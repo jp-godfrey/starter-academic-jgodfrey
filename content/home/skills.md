@@ -19,14 +19,12 @@ feature:
 - icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
-  icon: chart-line
+- icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  name: Quantitative Methods
+- icon: users
+  icon_pack: fab
+  name: Qualitative Methods
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

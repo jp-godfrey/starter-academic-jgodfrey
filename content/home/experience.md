@@ -35,17 +35,22 @@ experience:
         * Analyze data to make decisions regarding instuctional practice
         * Collect information on student's stregths and weaknesses
         
- - title: Professor of Semiconductor Physics
-    company: University X
+  - title: CEO
+    company: GenCoin
     company_url: ''
-    company_logo: org-x
+    company_logo: org-gc
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 
 design:
-  columns: '3'
+  columns: '2'
 ---
 
 

@@ -35,7 +35,20 @@ experience:
         * Analyze data to make decisions regarding instuctional practice
         * Collect information on student's stregths and weaknesses
         
-  - title: Professor of Semiconductor Physics
+    - title: Middle School Instructor/Egenuity Facilitator
+    company: Lamar County School District
+    company_url: ''
+    location: Mississippi
+    date_start: '2013-07-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Develop and attend to educational requirements
+        * Analyze data to make decisions regarding instuctional practice
+        * Collect information on student's stregths and weaknesses
+ 
+ - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
     company_logo: org-x

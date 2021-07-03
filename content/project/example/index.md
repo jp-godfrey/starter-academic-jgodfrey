@@ -4,7 +4,6 @@ summary: Coronavirus/Covid-19 is affecting countries throughout the word. Here i
 
 The data visualization file contains four data visualizations which each provide different results. The data visualization labeled Covid-19 (States) displays all COVID-19 deaths by states. The data is presented in a graduated color map. As the colors get darker, the death toll increase. It allows us to explore the infected areas by location. The data in that map stood out to me because areas with higher numbers are located near bodies of water. The color-coded bar graphs show the deaths by age groups and cause of death categories. More individuals who are 85 + years old dying than those that are younger age groups. The packed bubbles visualization show the place of death. Most people who are dying from only COVID-19 are dying in healthcare setting, impatient. Finally, the text table displays the deaths by all causes according to gender. In every category, there are more males that are dying than women. Data visualization can tell a story that actually paint an image. This data useful to all that are impacted.
 
-
 tags:
 - Tableau
 - Data Visualization

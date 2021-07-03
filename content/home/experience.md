@@ -25,7 +25,6 @@ experience:
   - title: Middle School Instructor/Egenuity Facilitator
     company: Lamar County School District
     company_url: ''
-    company_logo: my-logo
     location: Mississippi
     date_start: '2013-07-01'
     date_end: ''
